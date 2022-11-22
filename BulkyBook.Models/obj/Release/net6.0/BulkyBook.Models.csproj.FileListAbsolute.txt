@@ -1,0 +1,12 @@
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/bin/Release/net6.0/BulkyBook.Models.deps.json
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/bin/Release/net6.0/BulkyBook.Models.dll
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/bin/Release/net6.0/BulkyBook.Models.pdb
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/obj/Release/net6.0/BulkyBook.Models.csproj.AssemblyReference.cache
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/obj/Release/net6.0/BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/obj/Release/net6.0/BulkyBook.Models.AssemblyInfoInputs.cache
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/obj/Release/net6.0/BulkyBook.Models.AssemblyInfo.cs
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/obj/Release/net6.0/BulkyBook.Models.csproj.CoreCompileInputs.cache
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/obj/Release/net6.0/BulkyBook.Models.dll
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/obj/Release/net6.0/refint/BulkyBook.Models.dll
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/obj/Release/net6.0/BulkyBook.Models.pdb
+/Users/rim.sh/Desktop/c#/BulkyBook.Models/obj/Release/net6.0/ref/BulkyBook.Models.dll

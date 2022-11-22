@@ -1,0 +1,12 @@
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/bin/Release/net6.0/BulkyBook.Utility.deps.json
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/bin/Release/net6.0/BulkyBook.Utility.dll
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/bin/Release/net6.0/BulkyBook.Utility.pdb
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/obj/Release/net6.0/BulkyBook.Utility.csproj.AssemblyReference.cache
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/obj/Release/net6.0/BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/obj/Release/net6.0/BulkyBook.Utility.AssemblyInfoInputs.cache
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/obj/Release/net6.0/BulkyBook.Utility.AssemblyInfo.cs
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/obj/Release/net6.0/BulkyBook.Utility.csproj.CoreCompileInputs.cache
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/obj/Release/net6.0/BulkyBook.Utility.dll
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/obj/Release/net6.0/refint/BulkyBook.Utility.dll
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/obj/Release/net6.0/BulkyBook.Utility.pdb
+/Users/rim.sh/Desktop/c#/BulkyBook.Utility/obj/Release/net6.0/ref/BulkyBook.Utility.dll

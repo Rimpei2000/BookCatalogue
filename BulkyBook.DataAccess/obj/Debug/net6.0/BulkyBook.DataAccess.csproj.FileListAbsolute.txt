@@ -1,0 +1,17 @@
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.deps.json
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.runtimeconfig.json
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.dll
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.pdb
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.Models.dll
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.Models.pdb
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.csproj.AssemblyReference.cache
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.AssemblyInfoInputs.cache
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.AssemblyInfo.cs
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.csproj.CopyComplete
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.dll
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/obj/Debug/net6.0/refint/BulkyBook.DataAccess.dll
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.pdb
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.genruntimeconfig.cache
+/Users/rim.sh/Desktop/c#/BulkyBook.DataAccess/obj/Debug/net6.0/ref/BulkyBook.DataAccess.dll
